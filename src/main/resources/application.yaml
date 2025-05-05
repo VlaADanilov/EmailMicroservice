@@ -1,0 +1,9 @@
+api:
+  key: "6sjtf7ofbtg9epghp113bqsuhm66emhp71zhesce"
+  sender_name: "VCS2"
+  sender_email: "helloampro@gmail.com"
+
+spring:
+  redis:
+    host: redis
+    port: 6379
